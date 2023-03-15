@@ -10,7 +10,7 @@
 <p>Com este projeto continuei desenvolvendo o que aprendi com React como o useState e também trabalhei com função assíncrona ao precisar acessar informações através de uma API externa, onde utilizei await e o método de try e catch. Também instalei o axios que é uma biblioteca que trabalha com requisição http para acessar as informações da api. </p>
 <br>
 <h3>Acesso ao Projeto:</h3>
-<a href="buscador-de-cep-react-nine.vercel.app">Buscador de CEP</a>
+<a href="https://buscador-de-cep-react-nine.vercel.app/">Buscador de CEP</a>
 <br>
 <br>
 <h3>Tecnologias utilizadas:</h3>
