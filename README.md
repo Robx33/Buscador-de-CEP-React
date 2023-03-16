@@ -7,7 +7,7 @@
 <p>Um projeto que serve para buscar informações de um local baseado em seu CEP.</p>
 <br>
 <h3>Funcionalidades e Demonstração da Aplicação:</h3>
-<p>Com este projeto continuei desenvolvendo o que aprendi com React como o useState e também trabalhei com função assíncrona ao precisar acessar informações através de uma API externa, onde utilizei await e o método de try e catch. Também instalei o axios que é uma biblioteca que trabalha com requisição http para acessar as informações da api. </p>
+<p>Com este projeto continuei desenvolvendo o que aprendi com React como o useState e também trabalhei com função assíncrona ao precisar acessar informações através de uma API externa, onde utilizei await e o método de try e catch. Também instalei o axios que é um request API que trabalha com requisição http para acessar as informações da api. </p>
 <br>
 <h3>Acesso ao Projeto:</h3>
 <a href="https://buscador-de-cep-react-nine.vercel.app/">Buscador de CEP</a>
